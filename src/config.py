@@ -1,0 +1,8 @@
+FORECAST_MONTHS = 6
+RANDOM_STATE = 42
+TEST_SIZE = 0.2
+
+TARGET_PETROL = "petrol_price"
+TARGET_DIESEL = "diesel_price"
+
+DATA_PATH = "data/NDAP_REPORT_7916.csv"
